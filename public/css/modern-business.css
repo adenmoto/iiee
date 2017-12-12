@@ -32,4 +32,6 @@ body {
 max-width: 2em;
 }
 
- 
+.card-title img{
+    max-width: 2em;
+}
