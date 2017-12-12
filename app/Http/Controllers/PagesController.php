@@ -23,7 +23,15 @@ class PagesController extends Controller
         return view ('pages.services')->with($data);
     }*/
     
-     public function index(){
+    public function index(){
         return view ('IEEE.index');
+    }
+    
+    public function about(){
+        return view ('IEEE.about');
+    }
+    
+        public function vision(){
+        return view ('IEEE.vision');
     }
 }
