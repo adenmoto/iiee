@@ -123,10 +123,9 @@
         </div>
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <img class="card-img-top" src="images/aboutx/codeofethics.png" alt="">
             <div class="card-body">
-              <h4 class="card-title">Team Member</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Position</h6>
+              <h4 class="card-title">Code of Ethics</h4>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
             </div>
             <div class="card-footer">
@@ -136,11 +135,10 @@
         </div>
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <img class="card-img-top" src="images/aboutx/objectives.png" alt="">
             <div class="card-body">
-              <h4 class="card-title">Team Member</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+              <h4 class="card-title">Objectives</h4>
+              <p class="card-text">To enroll the membership and unite all registered electrical engineers and master electricians.</p>
             </div>
             <div class="card-footer">
               <a href="#">name@example.com</a>
