@@ -27,11 +27,22 @@ class PagesController extends Controller
         return view ('IEEE.index');
     }
     
+    //about page
     public function about(){
         return view ('IEEE.about.about');
+    } 
+    public function vision(){
+        return view ('IEEE.about.vision');
+    }
+    public function codeethics(){
+        return view ('IEEE.about.codeethics');
+    }
+    public function objectives(){
+        return view('IEEE.about.objectives');
     }
     
-        public function vision(){
-        return view ('IEEE.about.vision');
+    //issuances
+    public function issuances(){
+        return view('IEEE.issuances');
     }
 }
