@@ -46,8 +46,25 @@ class PagesController extends Controller
         return view('IEEE.issuances.issuances');
     }
     
-     //issuances page
+     //contactus page
     public function contactus(){
         return view('IEEE.contactus.contactus');
     }
+     //contactus page
+    public function membershipdept(){
+        return view('IEEE.contactus.membershipdept');
+    }
+    
+     /* contactus page
+    public function admindept(){
+        return view('IEEE.contactus.admindept');
+    }
+       //contactus page
+    public function marketingdept(){
+        return view('IEEE.contactus.marketingdept');
+    }
+        //contactus page
+    public function pimis(){
+        return view('IEEE.contactus.pimis');
+    }*/
 }

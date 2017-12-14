@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.appabout')
 @section('content')   
     <!-- Page Content -->
     <div class="container">
@@ -31,6 +31,4 @@
                  <p>5.To promote closer ties and fellowship among the members of the profession and with other engineers and associated Technologist.</p>   
         </div>
       </div>
-@extends('layouts.appabout')
-@section('content') 
-@endsection
+ @endsection

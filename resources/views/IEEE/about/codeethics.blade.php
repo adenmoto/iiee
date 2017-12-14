@@ -1,5 +1,9 @@
-@extends('layouts.app')
+@extends('layouts.appabout')
 @section('content')   
+
+<head>
+    <link href="{{asset('css/animate.css') }}" rel="stylesheet">
+</head>
     <!-- Page Content -->
     <div class="container">
 
@@ -46,6 +50,6 @@
           <p>10. To assist colleagues and co-workers in their professional development and to support them in following this Code of Ethics. </p>
        </div>
       </div>
-@extends('layouts.appabout')
-@section('content') 
+
+
 @endsection
