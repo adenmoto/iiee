@@ -55,7 +55,7 @@ class PagesController extends Controller
         return view('IEEE.contactus.membershipdept');
     }
     
-     /* contactus page
+     
     public function admindept(){
         return view('IEEE.contactus.admindept');
     }
@@ -63,8 +63,13 @@ class PagesController extends Controller
     public function marketingdept(){
         return view('IEEE.contactus.marketingdept');
     }
+         //contactus page
+    public function financedept(){
+        return view('IEEE.contactus.financedept');
+    }
+    
         //contactus page
     public function pimis(){
         return view('IEEE.contactus.pimis');
-    }*/
+    } 
 }

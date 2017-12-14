@@ -30,6 +30,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
+           <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+           </li>
             <li class="nav-item">
               <a class="nav-link" href="about">About</a>
             </li>
@@ -41,9 +44,10 @@
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdowncontact">
                 <a class="dropdown-item" href="contactus">Contact Us</a>
                 <a class="dropdown-item" href="membershipdept">Membership Department</a>
-                <a class="dropdown-item" href="portfolio-3-col.html">3 Column Portfolio</a>
-                <a class="dropdown-item" href="portfolio-4-col.html">4 Column Portfolio</a>
-                <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
+                <a class="dropdown-item" href="admindept">Admin Department</a>
+                <a class="dropdown-item" href="marketingdept">Marketing Department</a>
+                <a class="dropdown-item" href="financedept">Finance Department</a>
+                <a class="dropdown-item" href="pimis">Public Information Management Information System Department</a>
               </div>
             </li>
             <li class="nav-item dropdown">

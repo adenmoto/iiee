@@ -36,4 +36,8 @@ Route::get('/issuances','PagesController@issuances');
 //issuances page
 Route::get('/contactus','PagesController@contactus');
 Route::get('/membershipdept','PagesController@membershipdept');
+Route::get('/admindept','PagesController@admindept');
+Route::get('/marketingdept','PagesController@marketingdept');
+Route::get('/financedept','PagesController@financedept');
+Route::get('/pimis','PagesController@pimis');
 

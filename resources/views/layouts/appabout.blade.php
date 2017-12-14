@@ -32,24 +32,24 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="about">About</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="issuances">Issuances</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contactus">Contact</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Portfolio
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                <a class="dropdown-item" href="portfolio-1-col.html">1 Column Portfolio</a>
-                <a class="dropdown-item" href="portfolio-2-col.html">2 Column Portfolio</a>
-                <a class="dropdown-item" href="portfolio-3-col.html">3 Column Portfolio</a>
-                <a class="dropdown-item" href="portfolio-4-col.html">4 Column Portfolio</a>
-                <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
+             <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="" id="navbarDropdowncontact" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdowncontact">
+                <a class="dropdown-item" href="contactus">Contact Us</a>
+                <a class="dropdown-item" href="membershipdept">Membership Department</a>
+                <a class="dropdown-item" href="admindept">Admin Department</a>
+                <a class="dropdown-item" href="marketingdept">Marketing Department</a>
+                <a class="dropdown-item" href="financedept">Finance Department</a>
+                <a class="dropdown-item" href="pimis">Public Information Management Information System Department</a>
+
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -134,6 +134,9 @@
       </div>
       <!-- /.container -->
     </footer>
+       <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   </body>
 
 
