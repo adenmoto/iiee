@@ -33,4 +33,6 @@ Route::get('/objectives','PagesController@objectives');
 
 //issuances page
 Route::get('/issuances','PagesController@issuances');
+//issuances page
+Route::get('/contactus','PagesController@contactus');
 

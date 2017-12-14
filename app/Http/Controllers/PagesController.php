@@ -45,4 +45,9 @@ class PagesController extends Controller
     public function issuances(){
         return view('IEEE.issuances.issuances');
     }
+    
+     //issuances page
+    public function contactus(){
+        return view('IEEE.contactus.contactus');
+    }
 }
