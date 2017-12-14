@@ -1,6 +1,5 @@
 @yield('content')
 <h2>Our Goals</h2>
-
 <head>
     <link href="{{asset('css/animate.css') }}" rel="stylesheet">
 </head>
@@ -30,7 +29,7 @@
               <p class="card-text">The Engineer shall uphold and advance the integrity, honor and dignity of the engineering profession by:</p>
             </div>
             <div class="card-footer">
-              <a href="codeethics">Code of Ethics</a>
+              <a href="objectives">Code of Ethics</a>
             </div>
           </div>
         </div>

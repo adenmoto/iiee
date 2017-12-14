@@ -31,6 +31,6 @@ Route::get('/vision', 'PagesController@vision');
 Route::get('/codeethics','PagesController@codeethics');
 Route::get('/objectives','PagesController@objectives');
 
-//issuances
+//issuances page
 Route::get('/issuances','PagesController@issuances');
 

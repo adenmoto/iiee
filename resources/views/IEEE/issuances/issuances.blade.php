@@ -17,7 +17,7 @@
     <link href="css/modern-business.css" rel="stylesheet">
 
   </head>
-@extends('layouts.app');
+@extends('layouts.app')
 @section('content')
 
     <!-- Page Content -->
@@ -44,10 +44,11 @@
           <div class="card h-100">
             <h4 class="card-header">Compliance to IIEE Membership E-Card Requirements and Issuancesof Certificate of Good Standing</h4>
             <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+              <p class="card-text">SUBJECT: Memorandum Circular
+              </p>
             </div>
             <div class="card-footer">
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="/memo" class="btn btn-primary">View Image</a>
             </div>
           </div>
         </div>
@@ -55,10 +56,10 @@
           <div class="card h-100">
             <h4 class="card-header">Proposed Amendments to the IIEE Constitution and By-Laws</h4>
             <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
+              <p class="card-text">SUBJECT: Proposed amendments to the IIEE constitution and by laws</p>
             </div>
             <div class="card-footer">
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="#" class="btn btn-primary">View Image</a>
             </div>
           </div>
         </div>
@@ -66,10 +67,10 @@
           <div class="card h-100">
             <h4 class="card-header">CHED MEMORANDUM</h4>
             <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+              <p class="card-text">SUBJECT: Participation in the 2015 annual national convention of the institute of integrated electrical engineer of the philippines, inc.</p>
             </div>
             <div class="card-footer">
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="#" class="btn btn-primary">View Image</a>
             </div>
           </div>
         </div>
@@ -78,9 +79,5 @@
 
     </div>
     <!-- /.container -->
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 @endsection
 </html>

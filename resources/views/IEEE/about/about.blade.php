@@ -26,6 +26,9 @@
           <p>IIEE is committed to (1) upgrade the professional credentials of its members through the Continuing Professional Development (CPD) programs; (2) enhance their social standing through the promotion of high ideals of integrity and ethics; (3) facilitate advancement of technology transfer through carefully conceived educational and training programs; and (4) provide opportunity for regular interaction among electrical practitioners.</p>
         </div>
       </div>
+
 @extends('layouts.appabout')
-@section('content') 
+@section('content')
 @endsection
+
+

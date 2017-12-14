@@ -41,8 +41,8 @@ class PagesController extends Controller
         return view('IEEE.about.objectives');
     }
     
-    //issuances
+    //issuances page
     public function issuances(){
-        return view('IEEE.issuances');
+        return view('IEEE.issuances.issuances');
     }
 }

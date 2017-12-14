@@ -21,10 +21,10 @@
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light fixed-top" style="background-color:#FFBF0E">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light fixed-top" style="background-color:#FFbe35">
       <div class="container">
         <a class="navbar-brand" href="/"><img class="img-responsive2"       
-       src="images/lolog.png"></a>
+       src="images/lolog.png">IIEE</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
