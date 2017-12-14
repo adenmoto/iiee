@@ -1,7 +1,9 @@
-
+ 
 @extends('layouts.app')
+@section('content')
 <!DOCTYPE html>
 <html lang="en">
+
 
   <head>
 
@@ -79,12 +81,16 @@
       <h3 class="my-4">IIEE 2017 Theme: SUSTAINING GROWTH INITIATIVES FOR GLOBAL EXCELLENCE</h3><br>
 
       <!-- Marketing Icons Section -->
-      <center><h2>NEWS & EVENTS</h2></center><br>
+       <center><h2>NEWS & EVENTS</h2></center><br>
       <div class="row">
+ 
+      <h2>NEWS & EVENTS</h2><br>
+      <div class="row" >
+ 
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
               <h6 class="card-header"><strong>IIEE Southern Cavite Chapter Report November 2017</strong></h6>
-            <div class="card-body">
+            <div class="card-body" animated fadeIn>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
             </div>
             <div class="card-footer">
@@ -107,7 +113,7 @@
           <div class="card h-100">
               <h6 class="card-header"><strong>2017 List of Election Ballot 1st batch Return to Sender (RTS)</strong></h6>
             <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+              <p class="card-text" animated fadeIn>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
             </div>
             <div class="card-footer">
               <a href="#" class="btn btn-primary">Learn More</a>
@@ -149,8 +155,7 @@
         </div>
       </div>
       <!-- /.row -->
- 
-
+      
       <!-- Features Section -->
       <br>
       <div class="row">
@@ -172,24 +177,14 @@
             <img class="img-fluid rounded" src="images/lolog.png" alt="LOGO" style="max-width:85%">
         </div>
       </div>
-      <!-- /.row -->
-
-      <hr>
-
-      
-
-    <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
-      </div>
-      <!-- /.container -->
-    </footer>
-
+       </div>
+        </div>
+    <br>
+    <br>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
   </body>
-
 </html>
+@endsection
+

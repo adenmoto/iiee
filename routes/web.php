@@ -24,9 +24,13 @@ Route::resource('posts', 'PostsController');
 Route::get('/generate', 'PagesController@generate');*/
 
 Route::get('/', 'PagesController@index');
+
+//about page
 Route::get('/about', 'PagesController@about');
 Route::get('/vision', 'PagesController@vision');
+Route::get('/codeethics','PagesController@codeethics');
+Route::get('/objectives','PagesController@objectives');
 
- 
- 
+//issuances page
+Route::get('/issuances','PagesController@issuances');
 
