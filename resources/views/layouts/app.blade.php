@@ -39,8 +39,8 @@
             <li class="nav-item">
               <a class="nav-link" href="issuances">Issuances</a>
             </li>
-             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="" id="navbarDropdowncontact" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>
+             <li class="nav-item dropdown ">
+              <a class="nav-link dropdown-toggle" href="" id="navbarDropdowncontact " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdowncontact">
                 <a class="dropdown-item" href="contactus">Contact Us</a>
                 <a class="dropdown-item" href="membershipdept">Membership Department</a>

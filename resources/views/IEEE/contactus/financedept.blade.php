@@ -24,7 +24,7 @@
  
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container animated fadeIn">
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">Finance Department</h1>

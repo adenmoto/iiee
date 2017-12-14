@@ -4,11 +4,11 @@
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Issuances
+      <h1 class="mt-4 mb-3 animated fadeIn">Issuances
         
       </h1>
 
-      <ol class="breadcrumb">
+      <ol class="breadcrumb animated fadeIn">
         <li class="breadcrumb-item">
           <a href="index.html">Home</a>
         </li>

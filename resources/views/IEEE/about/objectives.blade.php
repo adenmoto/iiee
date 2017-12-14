@@ -1,7 +1,7 @@
 @extends('layouts.appabout')
 @section('content')   
     <!-- Page Content -->
-    <div class="container">
+    <div class="container animated fadeIn">
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">About Us
@@ -20,9 +20,9 @@
 
    <div class="row">
         <div class="col-lg-12">
-          <img class="img-fluid rounded mb-4 animated fadeIn" src="images/aboutx/objective.png"alt="">
+          <img class="img-fluid rounded mb-4" src="images/aboutx/objective.png"alt="">
         </div>
-        <div class="col-lg-9 animated fadeIn">
+        <div class="col-lg-9">
                  <h2>IEEE</h2>
                  <p>1.To enroll the membership and unite all registered electrical engineers and master electricians into one dynamic, national association.</p>
                  <p>2.To promote the interest and protect the rights of all the members in the exercise of their profession.</p>

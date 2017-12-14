@@ -1,11 +1,10 @@
 @extends('layouts.appabout')
 @section('content')   
-
 <head>
     <link href="{{asset('css/animate.css') }}" rel="stylesheet">
 </head>
     <!-- Page Content -->
-    <div class="container">
+    <div class="container animated fadeIn">
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">About Us
@@ -25,9 +24,9 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-12">
-          <img class="img-fluid rounded mb-4 animated fadeIn" src="images/aboutx/codeofethics.jpg"alt="">
+          <img class="img-fluid rounded mb-4" src="images/aboutx/codeofethics.jpg"alt="">
         </div>
-        <div class="col-lg-12 animated fadeIn">
+        <div class="col-lg-12">
                  <h2>IEEE</h2>
           <p><b>Foreword</b></p>
           <p>The Engineer shall uphold and advance the integrity, honor and dignity of the engineering profession by:</p>
@@ -35,7 +34,7 @@
           <p>II. Being honest and impartial, and serving with fidelity the public, his employers and his clients; and</p>
           <p>III. Striving to increase the competence and prestige of the engineering profession.</p>
           <p><b>The Fundamental Canons</b></p>
-        <div class="col-lg-12 animated fadeIn">
+        <div class="col-lg-12">
           <p>&nbsp &nbsp We, therefore Members of the Institute of Integrated Electrical Engineers of the Philippines, (IIEE), in recognition of the never-ending involvement of our technology, in uplifting the quality of life, and in accepting a personal obligation and dedication to our profession, its members and the communities we serve, do hereby pledge and commit ourselves to the highest ethical and professional conduct and agree:</p>
         </div><br>
           <p>1. To accept responsibility in making sound engineering decisions consistent with the safety, health and welfare of the public, and to disclose promptly the factors that might endanger the public or the environment;</p>
@@ -50,6 +49,4 @@
           <p>10. To assist colleagues and co-workers in their professional development and to support them in following this Code of Ethics. </p>
        </div>
       </div>
-
-
 @endsection

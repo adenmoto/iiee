@@ -36,8 +36,8 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/indexcover/1.jpg')">
-            <div class="carousel-caption d-none d-md-block">
+          <div class="carousel-item active animated fadeIn" style="background-image: url('images/indexcover/1.jpg')">
+            <div class="carousel-caption d-none d-md-block animated fadeIn">
               <h3>First Slide</h3>
               <p>This is a description for the second slide.</p>      
             </div>
@@ -76,7 +76,7 @@
     </header>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container animated fadeIn">
 
       <h3 class="my-4">IIEE 2017 Theme: SUSTAINING GROWTH INITIATIVES FOR GLOBAL EXCELLENCE</h3><br>
 
@@ -87,7 +87,7 @@
       <h2>NEWS & EVENTS</h2><br>
       <div class="row" >
  
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-4 mb-4 animated fadeIn">
           <div class="card h-100">
               <h6 class="card-header"><strong>IIEE Southern Cavite Chapter Report November 2017</strong></h6>
             <div class="card-body" animated fadeIn>
@@ -98,7 +98,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-4 mb-4 animated fadeIn">
           <div class="card h-100">
               <h6 class="card-header"><strong>IIEE-CDO Report for the month of OCTOBER 2017</strong></h6>
             <div class="card-body">
@@ -109,7 +109,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-4 mb-4 animated fadeIn">
           <div class="card h-100">
               <h6 class="card-header"><strong>2017 List of Election Ballot 1st batch Return to Sender (RTS)</strong></h6>
             <div class="card-body">
@@ -120,7 +120,7 @@
             </div>
           </div>
         </div>
-          <div class="col-lg-4 mb-4">
+          <div class="col-lg-4 mb-4 animated fadeIn">
           <div class="card h-100">
               <h6 class="card-header"><strong>IIEE-CDO Chapter September 2017 Activities </strong></h6>
             <div class="card-body">
@@ -131,7 +131,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-4 mb-4 animated fadeIn">
           <div class="card h-100">
               <h6 class="card-header"><strong>ISA GROUP PERDAMAN Job Opportunity</strong></h6>
             <div class="card-body">
@@ -142,7 +142,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-4 mb-4 animated fadeIn">
           <div class="card h-100">
               <h6 class="card-header"><strong>2017 4th MM Presentations</strong></h6>
             <div class="card-body">
@@ -159,7 +159,7 @@
       <!-- Features Section -->
       <br>
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-6 animated fadeIn">
           <h2>Quick Links</h2>
            <ul>
               <a href="#"><li>Membership Online Registration</li></a>
@@ -173,7 +173,7 @@
           </ul>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 animated fadeIn">
             <img class="img-fluid rounded" src="images/lolog.png" alt="LOGO" style="max-width:85%">
         </div>
       </div>

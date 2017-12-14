@@ -1,6 +1,6 @@
 @extends('layouts.appabout')
 @section('content')
-    <div class="container">
+    <div class="container animated fadeIn">
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">About Us
@@ -22,9 +22,9 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-10">
-          <img class="img-fluid rounded mb-4 animated fadeIn" src="images/aboutx/missionvision.png" alt="">
+          <img class="img-fluid rounded mb-4" src="images/aboutx/missionvision.png" alt="">
         </div>
-        <div class="col-lg-6 animated fadeIn">
+        <div class="col-lg-6">
            
           <h2>VISION</h2>
           <p>To be the leading electrical professional organization globally.</p> <br><br>
@@ -39,6 +39,5 @@
           <p><b>Excellence</b> is the state of being extremely good or outstanding in everything we do.</p>
         </div>
       </div>
-      <!-- /.row -->
-    </body>
+    </div>
     @endsection
