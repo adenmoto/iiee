@@ -16,8 +16,8 @@
       </ol>
 
       <!-- Image Header -->
-      <img class="img-fluid rounded mb-6 animated fadeIn" src="images/issuances/issuances3.jpg" alt="">
-
+      <center> <img class="img-fluid rounded mb-6 animated fadeIn" id="iad" src="images/issuances/issuances3.png" alt=""></center>
+      <br><br>
       <!-- Marketing Icons Section -->
       <div class="row">
         <div class="col-lg-4 mb-4 animated fadeIn">

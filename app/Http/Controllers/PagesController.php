@@ -72,4 +72,14 @@ class PagesController extends Controller
     public function pimis(){
         return view('IEEE.contactus.pimis');
     } 
+    
+         //calendar page
+    public function calendar(){
+        return view('IEEE.calendar.calendar');
+    } 
+    
+          //registration page
+    public function registration(){
+        return view('IEEE.registration.registration');
+    } 
 }

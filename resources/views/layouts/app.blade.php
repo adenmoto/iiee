@@ -18,7 +18,7 @@
     <link href="{{asset('css/animate.css') }}" rel="stylesheet">
   </head>
 
-  <body>
+  <body style="background-image: url('images/bg.png');">
 
     <!-- Navigation -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-light fixed-top" style="background-color:#FFbe35">
@@ -38,6 +38,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="issuances">Issuances</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link" href="calendar">Calendar</a>
             </li>
              <li class="nav-item dropdown ">
               <a class="nav-link dropdown-toggle" href="" id="navbarDropdowncontact " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>

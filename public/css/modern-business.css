@@ -11,6 +11,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
+ 
   }
 }
 
@@ -34,4 +35,15 @@ max-width: 2em;
 
 .card-title img{
     max-width: 2em;
+}
+
+.card-img-top img{
+    max-width: 1%;
+}
+
+#aid {
+    max-width: 40%;
+}
+#iad {
+    max-width: 40%;
 }
