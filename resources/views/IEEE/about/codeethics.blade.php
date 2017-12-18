@@ -24,7 +24,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-12">
-          <img class="img-fluid rounded mb-4" src="images/aboutx/codeofethics.jpg"alt="">
+          <img class="img-fluid rounded mb-4" src="images/aboutx/codeofethics.jpg"alt="" style="max-width: 70%;margin-left: 12em;">
         </div>
         <div class="col-lg-12">
                  <h2>IEEE</h2>

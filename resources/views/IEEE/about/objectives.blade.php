@@ -20,7 +20,7 @@
 
    <div class="row">
         <div class="col-lg-12">
-          <img class="img-fluid rounded mb-4" src="images/aboutx/objective.png"alt="">
+          <img class="img-fluid rounded mb-4" src="images/aboutx/objective.png"alt="" style="max-width: 75%;margin-left: 8em">
         </div>
         <div class="col-lg-9">
                  <h2>IEEE</h2>

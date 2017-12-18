@@ -22,7 +22,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-10">
-          <img class="img-fluid rounded mb-4" src="images/aboutx/missionvision.png" alt="">
+          <img class="img-fluid rounded mb-4" src="images/aboutx/missionvision.png" alt="" style="max-width: 70%; margin-left: 14em">
         </div>
         <div class="col-lg-6">
            

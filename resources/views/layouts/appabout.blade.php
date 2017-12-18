@@ -86,10 +86,10 @@
     </html>
       <div class="row">
         <div class="col-lg-4 mb-4">
+         <a href="vision">
          <img class="card-img-top animated shake" src="images/aboutx/visionmission.png" alt="" style="max-width: 85%; margin-left:2em ; ">
-          <div class="card h-40 text-center">
-            <a href="vision">
-            </a>
+         </a>
+          <div class="card h-40 text-center">        
             <div class="card-body">
               <h4 class="card-title"><b>Vision/Mission</b></h4>
               <p class="card-text">To enhance the competencies of electrical practitioners to make positive contribution towards new trends and technologies.</p>
@@ -100,11 +100,11 @@
           </div>
         </div>
         <div class="col-lg-4 mb-4">
-         <img class="card-img-top animated shake" src="images/aboutx/codeofethics.png" alt="" style="margin-top: 2.5em; margin-bottom: 1em; max-width: 85%; margin-left:2em ">
+         <a href="codeethics"><img class="card-img-top animated shake" src="images/aboutx/codeofethics.png" alt="" style="margin-top: 2.5em; margin-bottom: 1em; max-width: 85%; margin-left:2em ">  </a>
          
           <div class="card h-40 text-center">
-            <a href="codeethics">
-            </a>
+        
+          
             <div class="card-body">
                 <h4 class="card-title"><b>Code of Ethics</b></h4>
               <p class="card-text">The Engineer shall uphold and advance the integrity, honor and dignity of the engineering profession by:</p>
@@ -115,11 +115,11 @@
           </div>
         </div>
         <div class="col-lg-4 mb-4">
-            <img class="card-img-top animated shake" src="images/aboutx/objectives.png" alt="" style="max-width: 85%; margin-left:2em;">
-          <div class="card h-40 text-center">
             <a href="objectives">
-            
+            <img class="card-img-top animated shake" src="images/aboutx/objectives.png" alt="" style="max-width: 85%; margin-left:2em;">   
             <a/>
+          <div class="card h-40 text-center">
+         
             <div class="card-body">
                 <h4 class="card-title"><b>Objectives</b></h4>
               <p class="card-text">To enroll the membership and unite all registered electrical engineers and master electricians.</p>
