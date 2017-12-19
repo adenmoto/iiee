@@ -32,7 +32,7 @@
 
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
-          <a href="index.html">Home</a>
+            <a href="/">Home</a>
         </li>
         <li class="breadcrumb-item active">Public Information Management Information System Department</li>
       </ol>

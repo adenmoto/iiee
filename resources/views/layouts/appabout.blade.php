@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -39,6 +38,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="issuances">Issuances</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="jobopportunities">Job Opportunities</a>                 
             </li>
             <li class="nav-item">
               <a class="nav-link" href="calendar">Calendar</a>

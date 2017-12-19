@@ -1,8 +1,5 @@
 @extends('layouts.appabout')
 @section('content')   
-<head>
-    <link href="{{asset('css/animate.css') }}" rel="stylesheet">
-</head>
     <!-- Page Content -->
     <div class="container animated fadeIn">
 

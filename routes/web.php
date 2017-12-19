@@ -33,7 +33,8 @@ Route::get('/objectives','PagesController@objectives');
 
 //issuances page
 Route::get('/issuances','PagesController@issuances');
-//issuances page
+
+//contact us page
 Route::get('/contactus','PagesController@contactus');
 Route::get('/membershipdept','PagesController@membershipdept');
 Route::get('/admindept','PagesController@admindept');
@@ -43,3 +44,7 @@ Route::get('/pimis','PagesController@pimis');
 Route::get('/calendar','PagesController@calendar');
 Route::get('/registration','PagesController@registration');
 
+//job opportunities pages
+Route::get('/jobopportunities','PagesController@jobopportunities');
+Route::get('/jobopportunities2', 'PagesController@jobopportunities2');
+Route::get('/jobopportunities3', 'PagesController@jobopportunities3');

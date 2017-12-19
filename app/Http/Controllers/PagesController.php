@@ -82,4 +82,15 @@ class PagesController extends Controller
     public function registration(){
         return view('IEEE.registration.registration');
     } 
+    
+        //Job opportunities
+    public function jobopportunities(){
+        return view('IEEE.jobopp.jobopportunities');
+    }
+    public function jobopportunities2(){
+        return view('IEEE.jobopp.jobopportunities2');
+    }
+    public function jobopportunities3(){
+        return view('IEEE.jobopp.jobopportunities3');
+    }
 }
