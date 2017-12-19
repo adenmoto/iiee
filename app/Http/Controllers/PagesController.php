@@ -79,6 +79,10 @@ class PagesController extends Controller
     } 
     
           //registration page
+    public function Home(){
+        return view('IEEE.registration.Home');
+    } 
+      
     public function registration(){
         return view('IEEE.registration.registration');
     } 
@@ -94,3 +98,4 @@ class PagesController extends Controller
         return view('IEEE.jobopp.jobopportunities3');
     }
 }
+

@@ -147,7 +147,7 @@
         <div class="col-lg-6 animated fadeIn">
           <h2>Quick Links</h2>
            <ul>
-              <a href="#"><li>Membership Online Registration</li></a>
+              <a href="/Home"><li>Membership Online Registration</li></a>
               <a href="#"><li>Asia Power Quality Initiative - Philippines</li></a>
               <a href="#"><li>IIEE Board Resolution No. 2012-03-31</li></a>
               <a href="#"><li>Application for ASEAN Engineer</li></a>

@@ -20,7 +20,7 @@ Auth::routes();
 /*Route::get('/', 'PagesController@index');
 Route::get('/about', 'PagesController@about');
 Route::get('/services', 'PagesController@services');
-Route::resource('posts', 'PostsController');
+
 Route::get('/generate', 'PagesController@generate');*/
 
 Route::get('/', 'PagesController@index');
@@ -42,9 +42,13 @@ Route::get('/marketingdept','PagesController@marketingdept');
 Route::get('/financedept','PagesController@financedept');
 Route::get('/pimis','PagesController@pimis');
 Route::get('/calendar','PagesController@calendar');
-Route::get('/registration','PagesController@registration');
+Route::get('/Home','PagesController@Home');
+Route::get('/registration','PagesController@Registration');
 
 //job opportunities pages
 Route::get('/jobopportunities','PagesController@jobopportunities');
 Route::get('/jobopportunities2', 'PagesController@jobopportunities2');
 Route::get('/jobopportunities3', 'PagesController@jobopportunities3');
+
+//POSTS
+Route::resource('posts', 'PostsController');
