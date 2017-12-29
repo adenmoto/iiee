@@ -52,3 +52,8 @@ Route::get('/jobopportunities3', 'PagesController@jobopportunities3');
 
 //POSTS
 Route::resource('posts', 'PostsController');
+
+//login page
+Route::get('/login', 'PagesController@login');
+//contact us registration page
+Route::get('/contactus2','PagesController@contactus2');
