@@ -5,7 +5,7 @@
 </center>
 
 <div class="container">
-    
+    <div align="center">
             <form class="well form-horizontal" action="" style="background-color:whitesmoke; ">     
                 <div class="col-md-6">
                     <div class="form-group">
@@ -103,6 +103,7 @@
                 </div>
 
             </form> 
+        </div>
 </div>
      
 @endsection

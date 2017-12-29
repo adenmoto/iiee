@@ -56,13 +56,9 @@
     <!-- Page Content -->
     <div class="container animated fadeIn">
 
-      <h3 class="my-4">IIEE 2017 Theme: SUSTAINING GROWTH INITIATIVES FOR GLOBAL EXCELLENCE</h3><br>
-
-      <!-- Marketing Icons Section -->
-       <center><h2>NEWS & EVENTS</h2></center><br>
+      <h5 class="my-4 text-center">IIEE 2017 Theme: SUSTAINING GROWTH INITIATIVES FOR GLOBAL EXCELLENCE</h5><br>
       <div class="row">
- 
-      <h2>NEWS & EVENTS</h2><br>
+      <h5>NEWS & EVENTS</h5><br>
       <div class="row" >
  
         <div class="col-lg-4 mb-4 animated fadeIn">
@@ -138,7 +134,7 @@
       <br>
       <div class="row">
         <div class="col-lg-6 animated fadeIn">
-          <h2>Quick Links</h2>
+          <h5>Quick Links</h5>
            <ul>
               <a href="/Home"><li>Membership Online Registration</li></a>
               <a href="#"><li>Asia Power Quality Initiative - Philippines</li></a>
