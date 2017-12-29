@@ -38,9 +38,9 @@
       </ol>
 
       <!-- Content Row -->
-      <div class="row">    
+      <div class="row" style="background-color: rgb(255,255,255, .4)">    
         <!-- Contact Details Column -->
-        <div class="col-md-6 mb-4" style="background-color: rgb(255,255,255, .4)">
+        <div class="col-md-6 mb-4">
           <h3>MEMBERSHIP INQUIRIES</h3>
           <ul>
               <li>Membership Fee</li>
@@ -76,7 +76,7 @@
       
       <!-- /.row -->
  
-         <div class="col-lg-6 mb-4" style="background-color: rgb(255,255,255, .4)">
+         <div class="col-lg-6 mb-4">
            
             <h3>CPD INQUIRIES</h3>
              <ul>

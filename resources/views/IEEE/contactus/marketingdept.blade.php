@@ -38,7 +38,7 @@
       </ol>
 
       <!-- Content Row -->
-      <div class="row">    
+      <div class="row" style="background-color: rgb(255,255,255, .4)">    
         <!-- Contact Details Column -->
         <div class="col-lg-6 mb-4">
           <h3>MARKETING INQUIRIES:</h3>
